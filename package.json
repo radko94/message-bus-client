@@ -1,6 +1,6 @@
 {
-  "name": "client",
-  "version": "1.0.0",
+  "name": "@radko94/message-bus-client",
+  "version": "0.0.9",
   "description": "",
   "main": "index.ts",
   "scripts": {
