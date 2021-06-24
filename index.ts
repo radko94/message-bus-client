@@ -1,4 +1,4 @@
-import { CryptoHelper, IEvent } from "@radko94/message-buss-models";
+import { CryptoHelper, IEvent } from "message-bus-models";
 import { createConnection, Socket } from "net";
 import { fromEvent, Observable } from "rxjs";
 import { filter, map } from "rxjs/operators";
